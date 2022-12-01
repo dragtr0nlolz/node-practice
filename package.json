@@ -1,0 +1,18 @@
+{
+  "name": "hii",
+  "version": "1.0.0",
+  "description": "dont know",
+  "main": "01-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "dragz",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
